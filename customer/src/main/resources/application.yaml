@@ -1,0 +1,9 @@
+#SPRING#
+spring:
+  application:
+    name: customer
+  main:
+    banner-mode: log
+#SERVER#
+server:
+  port: 9458

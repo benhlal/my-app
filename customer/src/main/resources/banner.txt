@@ -1,0 +1,19 @@
+                           ${AnsiColor.BLACK}████████                ${AnsiColor.RED}███████
+                           ${AnsiColor.BLACK}█      █             ${AnsiColor.RED}███      ██
+                           ${AnsiColor.BLACK}█                   ${AnsiColor.RED}██
+                           ${AnsiColor.BLACK}█                  ${AnsiColor.RED}█
+                           ${AnsiColor.BLACK}█                 ${AnsiColor.RED}█
+                           ${AnsiColor.BLACK}█                ${AnsiColor.RED}█
+                            ${AnsiColor.BLACK}█               ${AnsiColor.RED}█
+                            ${AnsiColor.BLACK}█               ${AnsiColor.RED}█
+                             ${AnsiColor.BLACK}██             ${AnsiColor.RED}█
+                              ${AnsiColor.BLACK}██            ${AnsiColor.RED}█
+                               ${AnsiColor.BLACK}███          ${AnsiColor.RED}█     ████████
+                                 ${AnsiColor.BLACK}█          ${AnsiColor.RED}█       ██
+                                 ${AnsiColor.BLACK}██         ${AnsiColor.RED}██       █
+                                  ${AnsiColor.BLACK}█          ${AnsiColor.RED}█       ██
+                         ${AnsiColor.BLACK}█         █          ${AnsiColor.RED}█       █
+                         ${AnsiColor.BLACK}██        █          ${AnsiColor.RED}██      █
+                          ${AnsiColor.BLACK}█        █           ${AnsiColor.RED}█      █
+                          ${AnsiColor.BLACK}██      ██            ${AnsiColor.RED}██   ██
+                           ${AnsiColor.BLACK}████████               ${AnsiColor.RED}████   ${AnsiColor.BLACK} \____/
