@@ -1,11 +1,11 @@
 server:
-  port: 9999
+  port: 8081
 spring:
   application:
-    name: customer
+    name: anomaly
 
   datasource:
-    url: jdbc:postgresql://localhost:5432/customer
+    url: jdbc:postgresql://localhost:5432/anomaly
     username: youness
     password: password
   jpa:
@@ -16,6 +16,7 @@ spring:
         dialect: org.hibernate.dialect.PostgreSQLDialect
         format_sql: true
     show-sql: true
+
 eureka:
   client:
     service-url:
